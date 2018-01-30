@@ -46,7 +46,7 @@ Actions.refresh({param1: 'hello', param2: 'world'})
 
 ## Try the example app
 
-![rnrf](https://user-images.githubusercontent.com/3681859/27937441-ef61d932-626b-11e7-885f-1db7dc74b32e.gif)
+![rnrf](https://wx3.sinaimg.cn/mw690/83509bcely1fnys0yqzsng20eg0pshe1.gif)
 
 ```bash
 # Get the code
